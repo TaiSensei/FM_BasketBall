@@ -1,6 +1,6 @@
 # ESP32 Bluetooth Control for Custom Sex Toys with Xtoys
 
-Welcome to the project repository for local Bluetooth control of custom sex toys using Xtoys! This project allows you to manage sex toys via Bluetooth, avoiding the mess of serial communication cables.
+Welcome to the project repository for Local ESP32 Bluetooth control of custom sex toys using Xtoys! This project allows you to manage sex toys via Bluetooth, avoiding the mess of serial communication cables.
 
 ## Overview
 
@@ -20,6 +20,8 @@ For more information about Xtoys and custom toys, check out the [Xtoys Custom To
 [Xtoys ESP32-BT](https://xtoys.app/scripts/ESP32-BT)
 
 This setup is ideal for toggle-based interactions.
+
+In future I would like to make this into a state encoder/decoder to manage button presses and states better.
 
 ## Setup and Usage
 
